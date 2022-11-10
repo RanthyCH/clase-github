@@ -7,7 +7,7 @@
 
 /* Estilos general */
 body{
-    background-color: #ECEEF3;
+    background-color: #222224;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -37,11 +37,11 @@ main p{
 }
 
 main .boton{
-    background-color: #51df91;
+    background-color: #5a51df;
     color: whitesmoke;
     padding: 0.75rem;
     box-shadow: 1px 1px 5px black;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.521);
+    text-shadow: 1px 1px 5px rgba(241, 227, 227, 0.521);
 }
 
 main img{
@@ -75,7 +75,7 @@ footer h4{
         display: flex;
         justify-content: space-around;
         align-items: center;
-        color: #184131;
+        color: #2d1841;
     }
 
     header nav ul{
@@ -93,7 +93,7 @@ footer h4{
     section{
         display: block;
         display: flex;
-        background-color: #bef1ea;
+        background-color: #debef1;
     }
 
     section div{
